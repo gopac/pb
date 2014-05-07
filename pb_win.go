@@ -3,7 +3,7 @@
 package pb
 
 import (
-	"github.com/olekukonko/ts"
+	"../ts"
 )
 
 func bold(str string) string {
